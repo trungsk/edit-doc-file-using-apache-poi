@@ -22,7 +22,8 @@ import java.util.*;
  *              I know there are many samples that can manage the project without generating a clone file but I find it difficult
  *              and complicated for newbies. Everything will be done with this short-and-sweet method with a tiny clone file.
  *
- *  do custom your own values in value-part of the map below as your requests
+ *  The values we'll use here are static not from a database. Create one and do custom your own values in value-part of the map below as your requests
+ *  
  *
  */
 
