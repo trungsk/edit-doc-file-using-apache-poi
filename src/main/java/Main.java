@@ -18,7 +18,7 @@ import java.util.*;
  *          3, encoded-contract.docx is the doc file decoded from base64-code comes from base64.txt file
  *          4, actually there is one more file as a clone file and actually the contract.docx are going to be generated from this clone
  *              not from the template. Because our method would overwrite the values into the template so a clone have to be created for
- *              sort of sacrificing. It will be created then deleted so fast that we can not see its existence in the project's tree.
+ *              sort of sacrificing. It will be created then deleted in the blink of an eye that we can not see its existence in the project's tree.
  *              I know there are many samples that can manage the project without generating a clone file but I find it difficult
  *              and complicated for newbies. Everything will be done with this short-and-sweet method with a tiny clone file.
  *
