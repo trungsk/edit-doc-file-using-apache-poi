@@ -1,9 +1,9 @@
 # edit-dynamically-doc-file-using-apache-poi
 
 # the Flow:
-#  the CCQMContractTemplate.docx has a lot of blanks for infomations. a unique variable is put on each blank (we set it in camel case)
-#  we are going to create a map with its keys named after the variables in the docx and its values are what will be filled in the blank
-#  After programme runs, there are 3 files generated in folder template (write some codes to auto-delete them if you want to or do it manually):
+  the CCQMContractTemplate.docx has a lot of blanks for infomations. a unique variable is put on each blank (we set it in camel case)
+  we are going to create a map with its keys named after the variables in the docx and its values are what will be filled in the blank
+  After programme runs, there are 3 files generated in folder template (write some codes to auto-delete them if you want to or do it manually):
           1, contract.docx is our contract after filled by the values in the map
           2, base64.txt is our text file which contains base64-code encoded from contract.docx
           3, encoded-contract.docx is the doc file decoded from base64-code comes from base64.txt file
