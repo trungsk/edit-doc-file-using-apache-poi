@@ -38,7 +38,7 @@ public class Main {
         map.put("bankBranch", "HOAN KIEM");
         map.put("bankAddress", "25 Tran Hung Dao");
         map.put("bankNumber", "1900 555 587");
-        map.put("bankFax", "");
+        map.put("bankFax", "12345");
         map.put("representer", "PHAM DINH CUONG");
         map.put("position", "Expert");
         map.put("cusName", "NGUYEN THANH TRUNG");
